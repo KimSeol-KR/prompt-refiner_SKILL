@@ -1,0 +1,14 @@
+{
+  "name": "kimseol-skills",
+  "owner": {
+    "name": "KimSeol-KR",
+    "url": "https://github.com/KimSeol-KR"
+  },
+  "description": "비전공자가 대충 쓴 요청을 AI가 의도대로 알아듣게 만드는 스킬 모음",
+  "plugins": [
+    {
+      "name": "prompt-refiner",
+      "source": "./plugins/prompt-refiner"
+    }
+  ]
+}

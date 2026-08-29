@@ -1,0 +1,14 @@
+{
+  "name": "prompt-refiner",
+  "description": "모호하거나 대충 쓴 요청을 그대로 실행하지 않고, 빠진 의도를 복원해 '이렇게 이해했는데 맞나요?' 확인을 먼저 받는 스킬. 질문은 최대 2개, 선택지로. 나머지는 기본값으로 채우고 보이게 적는다.",
+  "version": "0.6.0",
+  "author": {
+    "name": "KimSeol-KR",
+    "url": "https://github.com/KimSeol-KR"
+  },
+  "homepage": "https://github.com/KimSeol-KR/prompt-refiner_SKILL",
+  "repository": "https://github.com/KimSeol-KR/prompt-refiner_SKILL",
+  "license": "MIT",
+  "keywords": ["prompt", "intent", "clarification", "korean", "non-technical"],
+  "category": "productivity"
+}
