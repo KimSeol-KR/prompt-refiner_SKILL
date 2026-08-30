@@ -68,7 +68,7 @@ claude plugin marketplace add KimSeol-KR/prompt-refiner_SKILL
 claude plugin install prompt-refiner@kimseol-skills
 ```
 
-비공개 저장소이므로 `gh auth login` 등으로 GitHub 인증이 되어 있어야 합니다.
+공개 저장소라 별도 인증 없이 바로 됩니다.
 업데이트는 `claude plugin marketplace update kimseol-skills`.
 
 ### claude.ai · Cowork — 스킬 업로드
